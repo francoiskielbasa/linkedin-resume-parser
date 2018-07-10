@@ -16,6 +16,7 @@
         }
     ],
     "require": {
+        "php": ">=7.0",
         "smalot/pdfparser": "^0.10.0"
     },
     "require-dev": {
